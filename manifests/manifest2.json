@@ -2,19 +2,19 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://TWH20212.github.io/Tom-iiif-maps/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "[The first of one maps]",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "[A lovely map]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "[British Library]",
   "sequences" : [ {
     "@id" : "http://cd88cc02-8791-4e26-93da-a37b687ca49d",
     "@type" : "sc:Sequence",
     "label" : [ {
-      "@value" : "Normal Sequence",
+      "@value" : "Paged",
       "@language" : "en"
     } ],
     "canvases" : [ {
